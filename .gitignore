@@ -48,6 +48,7 @@ Thumbs.db
 /build
 */build
 target/
+*.properties
 # IntelliJ specific files/directories #
 #######################################
 out
